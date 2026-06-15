@@ -1,6 +1,6 @@
 /*****************************************************************
 SQL INTERVIEW PREPARATION
-Author: Your Name
+Author: DASARI YASWANTH SRI BALACHANDRA
 Purpose: Frequently Asked SQL Interview Questions & Answers
 ******************************************************************/
 
